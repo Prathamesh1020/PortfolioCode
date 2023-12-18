@@ -2054,7 +2054,7 @@ textarea.form-control {
   .progress-container.progress-success .progress {
     background: rgba(24, 206, 15, 0.3); }
   .progress-container.progress-success .progress-bar {
-    background: #18ce0f; }
+    background: #221d1d; }
   .progress-container.progress-success .progress-value,
   .progress-container.progress-success .progress-badge {
     color: #18ce0f; }
@@ -2368,7 +2368,7 @@ body {
   background-color: #888;
   margin: 20px auto; }
   .separator.separator-primary {
-    background-color: #378C3F; }
+    background-color: #8c4937; }
 
 .nav-pills .nav-item .nav-link {
   padding: 0 15.5px;
